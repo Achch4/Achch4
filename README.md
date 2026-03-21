@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Achch4/Achch4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Achintha Full-stack developer based in Sri Lanka, building real projects to break into the industry.
+Currently studying BIT at the University of Colombo School of Computing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- 🔨 Building an expense tracker app (MERN stack)
+- 📚 Learning React and improving my JavaScript fundamentals
+
+---
+### My stack
+- **Backend:** Node.js, Express.js, MongoDB
+- **Frontend:** React, Tailwind CSS
+- **Other:** PHP, MySQL, Git
+
+---
+
+### Reach me
+- 📧 samapthachintha@gmail.com
+- 💼 Open to software internship opportunities in Sri Lanka or remote
