@@ -6,7 +6,7 @@ Currently studying BIT at the University of Colombo School of Computing.
 ---
 
 ### What I'm working on
-- 🔨 Build an expense tracker app (MERN stack)
+- 🔨 Built an expense tracker app (MERN stack)
 - 📚 Learning React and improving my JavaScript fundamentals
 
 ---
